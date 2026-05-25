@@ -1,0 +1,4 @@
+base_model,challenger_model,mean_diff_avg_value_per_applicant,diff_ci_lower_95,diff_ci_upper_95,is_significant_at_95
+gradient_boosting,logistic_regression,-245.8559907866667,-1051.2865456666666,546.1408213333333,False
+gradient_boosting,random_forest,2144.1388689066666,1530.5379059999993,2802.243611333334,True
+logistic_regression,random_forest,2389.9948596933336,1689.0378933333332,3151.5234736666653,True
